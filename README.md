@@ -87,8 +87,9 @@ Built with **Python (Flask) + SQLite + Chart.js** — hosted via XAMPP. Features
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanfreestyle77@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehanfreestyle77-star)
 
-<!-- Add these once you have them:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+<-- Add these once you have them:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihan-shaikh-0b02203ba/)
+<!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-USERNAME)
 -->
 
