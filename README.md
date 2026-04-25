@@ -26,11 +26,11 @@ Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**, currently bu
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=java,python,cs,js,html,css,&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,python,cs,js,html,css&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![](https://skillicons.dev/icons?i=flask,bootstrap,androidstudio&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=flask,bootstrap,androidstudio,unity&perline=8)](https://skillicons.dev)
 
 **Databases & Backend**
 
@@ -39,6 +39,10 @@ Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**, currently bu
 **Tools & Platforms**
 
 [![](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8)](https://skillicons.dev)
+
+**🎮 Gaming**
+
+[![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)](https://playvalorant.com/)
 
 ---
 
@@ -52,6 +56,18 @@ Built with **Java + Firebase Realtime Database**. Features include:
 - Teacher login with timetable-based attendance marking
 - Student records with class-wise organization
 - Secure registration flow with admin-only teacher creation
+
+---
+
+### 🧟 [Zombie Slayer — 3D Android Game](https://github.com/rehanfreestyle77-star/OpenWorld-3D-Game)
+> Mission-based 3D zombie shooter with custom AI and wave-based progression.
+
+Built with **Unity + C# + Universal Render Pipeline (URP)**. Features include:
+- Custom Zombie AI with dynamic, unpredictable behaviour scripting
+- Wave-based difficulty progression across missions
+- Smooth 3D character controller with aiming & physics
+- URP graphics optimised for mobile performance
+- 📲 **[Download on itch.io](https://rehanfreestyle77.itch.io/zombie-slayer)**
 
 ---
 
@@ -86,6 +102,7 @@ Built with **Python (Flask) + SQLite + Chart.js** — hosted via XAMPP. Features
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanfreestyle77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihan-shaikh-0b02203ba/)
+
 <!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-USERNAME)
 -->
