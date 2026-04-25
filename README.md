@@ -59,14 +59,14 @@ Built with **Java + Firebase Realtime Database**. Features include:
 
 ---
 
-### 🧟 [Zombie Slayer — 3D Android Game](https://github.com/rehanfreestyle77-star/OpenWorld-3D-Game)
+### 🧟 [Zombie Slayer — 3D Game](https://github.com/rehanfreestyle77-star/OpenWorld-3D-Game)
 > Mission-based 3D zombie shooter with custom AI and wave-based progression.
 
 Built with **Unity + C# + Universal Render Pipeline (URP)**. Features include:
 - Custom Zombie AI with dynamic, unpredictable behaviour scripting
 - Wave-based difficulty progression across missions
 - Smooth 3D character controller with aiming & physics
-- URP graphics optimised for mobile performance
+- URP graphics optimised for Windows performance
 - 📲 **[Download on itch.io](https://rehanfreestyle77.itch.io/zombie-slayer)**
 
 ---
