@@ -26,11 +26,11 @@ Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**, currently bu
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=java,python,cs,js,html,css,Bootstrap&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,python,cs,js,html,css,&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![](https://skillicons.dev/icons?i=flask,androidstudio&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=flask,bootstrap,androidstudio&perline=8)](https://skillicons.dev)
 
 **Databases & Backend**
 
