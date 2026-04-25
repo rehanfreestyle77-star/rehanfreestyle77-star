@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**, currently bu
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=java,python,js,html,css&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,python,C#,js,html,css,Bootstrap&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
