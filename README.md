@@ -6,15 +6,14 @@
 <!-- ![Banner](https://your-banner-url-here.png) -->
 
 <h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">Android & Web Developer from Mumbai 🇮🇳 | Building Smart Apps with Java & Firebase</h3>
+<h3 align="center">Software Engineer from Mumbai 🇮🇳 | Building Smart Apps with Java & Firebase</h3>
 
 ---
 
 ## 🙋 About Me
 
-Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**, currently building real-world Android and web applications. I enjoy turning ideas into fully functional products — from mobile apps to data-driven dashboards.
+Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**,I enjoy turning ideas into fully functional products — from mobile apps to data-driven dashboards.
 
-- 🔭 Currently working on a **Smart Attendance System** (Android, Java, Firebase)
 - 🌱 Exploring **Python web development** with Flask and data analytics
 - 🎮 Big fan of **Valorant** — sometimes it crosses into my projects too
 - 💬 Ask me about **Android development, Firebase, or Flask**
