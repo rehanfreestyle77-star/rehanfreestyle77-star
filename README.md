@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a developer from **Mumbai, Maharashtra**,I enjoy turni
 
 **Frameworks & Libraries**
 
-[![](https://skillicons.dev/icons?i=flask,bootstrap,androidstudio,unity&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=flask,bootstrap,androidstudio,unity,nodejs&perline=8)](https://skillicons.dev)
 
 **Databases & Backend**
 
